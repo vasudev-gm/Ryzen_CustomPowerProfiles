@@ -10,7 +10,7 @@ Enjoy Better Battery Life.
 - [ManiXX Power Plans V2 Direct Link to Google Drive][def2]
 - [Thinkpad P14s Gen 5 AMD Playlist][def3]
 - [My YT Video][def4]
-- [PowerSettigs Explorer Guru3d][def5]
+- [PowerSettings Explorer Guru3d][def5]
 
 [def]: https://www.overclock.net/threads/ryzen-custom-power-plans-for-windows-10-11-snappy-lowpower-highpower.1776353/
 [def2]: https://drive.google.com/file/d/10J8ApBJ5KN3vWvU3gOy7rUI9MUdaxaEe/view?usp=sharing
