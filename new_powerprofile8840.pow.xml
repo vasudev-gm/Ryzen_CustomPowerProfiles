@@ -1,0 +1,1305 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <subgroup guid="fea3413e-7e05-4911-9a71-700331f1c294">
+    <setting guid="0e796bdb-100d-47d6-a2d5-f7d2daa51f51" name="Require a password on wakeup">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+    </setting>
+    <setting guid="245d8541-3943-4422-b025-13a784f679b7" name="Power plan type">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="2" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="2" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="2" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="2" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="2" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="2" />
+    </setting>
+    <setting guid="4faab71a-92e5-4726-b531-224559672d19" name="Device idle policy">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+    </setting>
+    <setting guid="68afb2d9-ee95-47a8-8f50-4115088073b1" name="Disconnected Standby Mode">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+    </setting>
+    <setting guid="f15576e8-98b7-4186-b944-eafa664402d9" name="Networking connectivity in Standby">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="2" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="2" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="2" />
+    </setting>
+  </subgroup>
+  <subgroup guid="0012ee47-9041-4b5d-9b77-535fba8b1442">
+    <setting guid="0b2d69d7-a2a1-449c-9680-f91c70521c60" name="AHCI Link Power Management - HIPM/DIPM">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="2" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="4" />
+    </setting>
+    <setting guid="51dea550-bb38-4bc4-991b-eacf37be5ec8" name="Maximum Power Level">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="100" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="100" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="100" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="100" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="100" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="100" />
+    </setting>
+    <setting guid="6738e2c4-e8a5-4a42-b16a-e040e769756e" name="Turn off hard disk after">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="30" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="30" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="30" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="60" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="30" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="30" />
+    </setting>
+    <setting guid="80e3c60e-bb94-4ad8-bbe0-0d3195efc663" name="Hard disk burst ignore time">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="30" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="30" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="30" />
+    </setting>
+    <setting guid="d3d55efd-c1ff-424e-9dc3-441be7833010" name="Secondary NVMe Idle Timeout">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="2000" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="2000" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="2000" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1000" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1000" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1000" />
+    </setting>
+    <setting guid="d639518a-e56d-4345-8af2-b9f32fb26109" name="Primary NVMe Idle Timeout">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="200" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="200" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="200" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="100" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="100" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="100" />
+    </setting>
+    <setting guid="dab60367-53fe-4fbc-825e-521d069d2456" name="AHCI Link Power Management - Adaptive">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="100" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="100" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="100" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="100" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="100" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="100" />
+    </setting>
+    <setting guid="dbc9e238-6de9-49e3-92cd-8c2b4946b472" name="Secondary NVMe Power State Transition Latency Tolerance">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="100" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="100" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="100" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="100" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="100" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="100" />
+    </setting>
+    <setting guid="fc7372b6-ab2d-43ee-8797-15e9841f2cca" name="NVMe NOPPME">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="fc95af4d-40e7-4b6d-835a-56d131dbc80e" name="Primary NVMe Power State Transition Latency Tolerance">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="15" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="15" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="15" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="50" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="50" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="50" />
+    </setting>
+  </subgroup>
+  <subgroup guid="02f815b5-a5cf-4c84-bf20-649d1f75d3d8">
+    <setting guid="4c793e7d-a264-42e1-87d3-7a0d2f523ccd" name="JavaScript Timer Frequency">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+  </subgroup>
+  <subgroup guid="0d7dbae2-4294-402a-ba8e-26777e8488cd">
+    <setting guid="309dce9b-bef4-4119-9921-a851fb12f0f4" name="Slide show">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+    </setting>
+  </subgroup>
+  <subgroup guid="19cbb8fa-5279-450e-9fac-8a3d5fedd0c1">
+    <setting guid="12bbebe6-58d6-4636-95bb-3217ef867c1a" name="Power Saving Mode">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="2" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="2" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="2" />
+    </setting>
+  </subgroup>
+  <subgroup guid="238c9fa8-0aad-41ed-83f4-97be242c8f20">
+    <setting guid="1a34bdc3-7e6b-442e-a9d0-64b6ef378e84" name="Legacy RTC mitigations">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="25dfa149-5dd1-4736-b5ab-e8a37b5b8187" name="Allow Away Mode Policy">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="29f6c1db-86da-48c5-9fdb-f2b67b1f44da" name="Sleep after">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="300" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="300" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1800" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="180" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="180" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="180" />
+    </setting>
+    <setting guid="7bc4a2f9-d8fc-4469-b07b-33eb785aaca0" name="System unattended sleep timeout">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="120" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="120" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="120" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="120" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="120" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="120" />
+    </setting>
+    <setting guid="94ac6d29-73ce-41a6-809f-6363ba21b47e" name="Allow hybrid sleep">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+    </setting>
+    <setting guid="9d7815a6-7ee4-497e-8888-515a05f02364" name="Hibernate after">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="2147483647" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="2147483647" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="2147483647" />
+    </setting>
+    <setting guid="a4b195f5-8225-47d8-8012-9d41369786e2" name="Allow system required policy">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+    </setting>
+    <setting guid="abfc2519-3608-4c2a-94ea-171b0ed546ab" name="Allow Standby States">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+    </setting>
+    <setting guid="bd3b718a-0680-4d9d-8ab2-e1d2b4ac806d" name="Allow wake timers">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="d4c1d4c8-d5cc-43d3-b83e-fc51215cb04d" name="Allow sleep with remote opens">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+    </setting>
+  </subgroup>
+  <subgroup guid="2a737441-1930-4402-8d77-b2bebba308a3">
+    <setting guid="0853a681-27c8-4100-a2fd-82013e970683" name="Hub Selective Suspend Timeout">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="50" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="50" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="2000" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="50" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="50" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="50" />
+    </setting>
+    <setting guid="48e6b7a6-50f5-4782-a5d4-53bb8f07e226" name="USB selective suspend setting">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+    </setting>
+    <setting guid="498c044a-201b-4631-a522-5c744ed4e678" name="Setting IOC on all TDs">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="d4e98f31-5ffe-4ce1-be31-1b38b384c009" name="USB 3 Link Power Mangement">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="2" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="2" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="3" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="2" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="2" />
+    </setting>
+  </subgroup>
+  <subgroup guid="2e601130-5351-4d9d-8e04-252966bad054">
+    <setting guid="3166bc41-7e98-4e03-b34e-ec0f5f2b218e" name="Execution Required power request timeout">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="4294967295" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="4294967295" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="4294967295" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="300" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="300" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="300" />
+    </setting>
+    <setting guid="c36f0eb4-2988-4a70-8eee-0884fc2c2433" name="IO coalescing timeout">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="50" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="50" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="50" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="50" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="50" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="50" />
+    </setting>
+    <setting guid="c42b79aa-aa3a-484b-a98f-2cf32aa90a28" name="Processor Idle Resiliency Timer Resolution">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="d502f7ee-1dc7-4efd-a55d-f04b6f5c0545" name="Deep Sleep Enabled/Disabled">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+    </setting>
+  </subgroup>
+  <subgroup guid="48672f38-7a9a-4bb2-8bf8-3d85be19de4e">
+    <setting guid="2bfc24f9-5ea2-4801-8213-3dbae01aa39d" name="Interrupt Steering Mode">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="73cde64d-d720-4bb2-a860-c755afe77ef2" name="Target Load">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="50" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="50" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="50" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="50" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="50" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="50" />
+    </setting>
+    <setting guid="d6ba4903-386f-4c2c-8adb-5c21b3328d25" name="Unparked time trigger">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="100" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="100" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="100" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="100" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="100" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="100" />
+    </setting>
+  </subgroup>
+  <subgroup guid="4f971e89-eebd-4455-a8de-9e59040e7347">
+    <setting guid="5ca83367-6e45-459f-a27b-476b1d01c936" name="Lid close action">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+    </setting>
+    <setting guid="7648efa3-dd9c-4e3e-b566-50f929386280" name="Power button action">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="3" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="3" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="3" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="3" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="3" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="3" />
+    </setting>
+    <setting guid="833a6b62-dfa4-46d1-82f8-e09e34d029d6" name="Enable forced button/lid shutdown">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="96996bc0-ad50-47ec-923b-6f41874dd9eb" name="Sleep button action">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+    </setting>
+    <setting guid="99ff10e7-23b1-4c07-a9d1-5c3206d741b4" name="Lid open action">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+    </setting>
+    <setting guid="a7066653-8d6c-40a8-910e-a1f54b84c7e5" name="Start menu power button">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+  </subgroup>
+  <subgroup guid="501a4d13-42af-4429-9fd1-a8218c268e20">
+    <setting guid="ee12f906-d277-404b-b6da-e5fa1a576df5" name="Link State Power Management">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="2" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="2" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="2" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="2" />
+    </setting>
+  </subgroup>
+  <subgroup guid="54533251-82be-4824-96c1-47b60b740d00">
+    <setting guid="06cadf0e-64ed-448a-8927-ce7bf90eb35d" name="Processor performance increase threshold">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="30" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="30" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="60" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="90" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="90" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="60" />
+    </setting>
+    <setting guid="06cadf0e-64ed-448a-8927-ce7bf90eb35e" name="Processor performance increase threshold for Processor Power Efficiency Class 1">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="60" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="60" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="85" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="90" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="90" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="95" />
+    </setting>
+    <setting guid="0cc5b647-c1df-4637-891a-dec35c318583" name="Processor performance core parking min cores">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="100" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="100" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="100" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="25" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="25" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="30" />
+    </setting>
+    <setting guid="0cc5b647-c1df-4637-891a-dec35c318584" name="Processor performance core parking min cores for Processor Power Efficiency Class 1">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="12a0ab44-fe28-4fa9-b3bd-4b64f44960a6" name="Processor performance decrease threshold">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="10" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="10" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="45" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="30" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="30" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="60" />
+    </setting>
+    <setting guid="12a0ab44-fe28-4fa9-b3bd-4b64f44960a7" name="Processor performance decrease threshold for Processor Power Efficiency Class 1">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="20" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="20" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="60" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="30" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="30" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="60" />
+    </setting>
+    <setting guid="1facfc65-a930-4bc5-9f38-504ec097bbc0" name="Initial performance for Processor Power Efficiency Class 1 when unparked">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="50" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="50" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="50" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="50" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="50" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="50" />
+    </setting>
+    <setting guid="2430ab6f-a520-44a2-9601-f7f23b5134b1" name="Processor performance core parking concurrency threshold">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="97" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="97" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="97" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="97" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="97" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="97" />
+    </setting>
+    <setting guid="2ddd5a84-5a71-437e-912a-db0b8c788732" name="Processor performance core parking increase time">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="3" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="3" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="3" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="3" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="7" />
+    </setting>
+    <setting guid="36687f9e-e3a5-4dbf-b1dc-15eb381c6863" name="Processor energy performance preference policy">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="25" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="25" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="25" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="60" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="60" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="36687f9e-e3a5-4dbf-b1dc-15eb381c6864" name="Processor energy performance preference policy for Processor Power Efficiency Class 1">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="33" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="33" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="50" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="50" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="3b04d4fd-1cc7-4f23-ab1c-d1337819c4bb" name="Allow Throttle States">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="2" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="2" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="2" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="2" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="2" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="2" />
+    </setting>
+    <setting guid="4009efa7-e72d-4cba-9edf-91084ea8cbc3" name="Processor performance increase time for Processor Power Efficiency Class 1">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+    </setting>
+    <setting guid="40fbefc7-2e9d-4d25-a185-0cfd8574bac6" name="Processor performance decrease policy">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="40fbefc7-2e9d-4d25-a185-0cfd8574bac7" name="Processor performance decrease policy for Processor Power Efficiency Class 1">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="43f278bc-0f8a-46d0-8b31-9a23e615d713" name="Long running threads' processor architecture lower limit">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="447235c7-6a8d-4cc0-8e24-9eaf70b96e2b" name="Processor performance core parking parked performance state">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+    </setting>
+    <setting guid="447235c7-6a8d-4cc0-8e24-9eaf70b96e2c" name="Processor performance core parking parked performance state for Processor Power Efficiency Class 1">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="2" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+    </setting>
+    <setting guid="45bcc044-d885-43e2-8605-ee0ec6e96b59" name="Processor performance boost policy">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="60" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="60" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="100" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="40" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="40" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="40" />
+    </setting>
+    <setting guid="465e1f50-b610-473a-ab58-00d1077dc418" name="Processor performance increase policy">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="2" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="2" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="2" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="465e1f50-b610-473a-ab58-00d1077dc419" name="Processor performance increase policy for Processor Power Efficiency Class 1">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="3" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="3" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="3" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="3" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="3" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="3" />
+    </setting>
+    <setting guid="4b70f900-cdd9-4e66-aa26-ae8417f98173" name="Latency sensitivity hint processor energy performance preference">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="100" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="100" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="100" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="100" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="100" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="100" />
+    </setting>
+    <setting guid="4b70f900-cdd9-4e66-aa26-ae8417f98174" name="Latency sensitivity hint processor energy performance preference for Processor Power Efficiency Class 1">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="100" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="100" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="100" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="100" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="100" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="100" />
+    </setting>
+    <setting guid="4b92d758-5a24-4851-a470-815d78aee119" name="Processor idle demote threshold">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="40" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="40" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="20" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="20" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="20" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="20" />
+    </setting>
+    <setting guid="4bdaf4e9-d103-46d7-a5f0-6280121616ef" name="Processor performance core parking distribution threshold">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="90" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="90" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="90" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="90" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="90" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="90" />
+    </setting>
+    <setting guid="4d2b0152-7d5c-498b-88e2-34345392a2c5" name="Processor performance time check interval">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="15" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="15" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="20" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="30" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="30" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="30" />
+    </setting>
+    <setting guid="4e4450b3-6179-4e91-b8f1-5bb9938f81a1" name="Processor duty cycling">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="53824d46-87bd-4739-aa1b-aa793fac36d6" name="Short running threads' processor architecture lower limit">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="5d76a2ca-e8c0-402f-a133-2158492d58ad" name="Processor idle disable">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="616cdaa5-695e-4545-97ad-97dc2d1bdd88" name="Latency sensitivity hint min unparked cores/packages">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="50" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="50" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="90" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="50" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="50" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="50" />
+    </setting>
+    <setting guid="616cdaa5-695e-4545-97ad-97dc2d1bdd89" name="Latency sensitivity hint min unparked cores/packages for Processor Power Efficiency Class 1">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="25" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="619b7505-003b-4e82-b7a6-4dd29c300971" name="Latency sensitivity hint processor performance">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="99" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="99" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="95" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="99" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="99" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="80" />
+    </setting>
+    <setting guid="619b7505-003b-4e82-b7a6-4dd29c300972" name="Latency sensitivity hint processor performance for Processor Power Efficiency Class 1">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="50" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="50" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="50" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="50" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="50" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="50" />
+    </setting>
+    <setting guid="6c2993b0-8f48-481f-bcc6-00dd2742aa06" name="Processor idle threshold scaling">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="71021b41-c749-4d21-be74-a00f335d582b" name="Processor performance core parking decrease policy">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="75b0ae3f-bce0-45a7-8c89-c9611c25e100" name="Maximum processor frequency">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="75b0ae3f-bce0-45a7-8c89-c9611c25e101" name="Maximum processor frequency for Processor Power Efficiency Class 1">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="7b224883-b3cc-4d79-819f-8374152cbe7c" name="Processor idle promote threshold">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="60" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="60" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="50" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="40" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="40" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="40" />
+    </setting>
+    <setting guid="7d24baa7-0b84-480f-840c-1b0743c00f5f" name="Processor performance history count">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+    </setting>
+    <setting guid="7d24baa7-0b84-480f-840c-1b0743c00f60" name="Processor performance history count for Processor Power Efficiency Class 1">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+    </setting>
+    <setting guid="7f2492b6-60b1-45e5-ae55-773f8cd5caec" name="Processor performance decrease time for Processor Power Efficiency Class 1">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="3" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="3" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="3" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="3" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+    </setting>
+    <setting guid="7f2f5cfa-f10c-4823-b5e1-e93ae85f46b5" name="Heterogeneous policy in effect">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="4" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="4" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="4" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="4" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="4" />
+    </setting>
+    <setting guid="828423eb-8662-4344-90f7-52bf15870f5a" name="Short running threads' processor architecture upper limit">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="255" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="255" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="255" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="255" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="255" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="255" />
+    </setting>
+    <setting guid="893dee8e-2bef-41e0-89c6-b55d0929964c" name="Minimum processor state">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="80" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="80" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="5" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="5" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="893dee8e-2bef-41e0-89c6-b55d0929964d" name="Minimum processor state for Processor Power Efficiency Class 1">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="5" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="5" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="5" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="5" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="8baa4a8a-14c6-4451-8e8b-14bdbd197537" name="Processor performance autonomous mode">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+    </setting>
+    <setting guid="93b8b6dc-0698-4d1c-9ee4-0644e900c85d" name="Heterogeneous thread scheduling policy">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="5" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="5" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="2" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="5" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="5" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="4" />
+    </setting>
+    <setting guid="943c8cb6-6f93-4227-ad87-e9a3feec08d1" name="Processor performance core parking overutilization threshold">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="85" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="85" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="60" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="85" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="85" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="60" />
+    </setting>
+    <setting guid="94d3a615-a899-4ac5-ae2b-e4d8f634367f" name="System cooling policy">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="97cfac41-2217-47eb-992d-618b1977c907" name="Processor performance core parking soft park latency">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="984cf492-3bed-4488-a8f9-4286c97bf5aa" name="Processor performance increase time">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+    </setting>
+    <setting guid="984cf492-3bed-4488-a8f9-4286c97bf5ab" name="Processor performance increase time for Processor Power Efficiency Class 1">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+    </setting>
+    <setting guid="9943e905-9a30-4ec1-9b99-44dd3b76f7a2" name="Processor idle state maximum">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="b000397d-9b0b-483d-98c9-692a6060cfbf" name="Processor performance level increase threshold for Processor Power Efficiency Class 1 processor count increase">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="255" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="255" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="255" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="255" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="255" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="255" />
+    </setting>
+    <setting guid="b000397d-9b0b-483d-98c9-692a6060cfc0" name="Processor performance level increase threshold for Processor Power Efficiency Class 2 processor count increase">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="255" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="255" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="255" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="255" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="255" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="255" />
+    </setting>
+    <setting guid="b0deaf6b-59c0-4523-8a45-ca7f40244114" name="Module unpark policy">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="b28a6829-c5f7-444e-8f61-10e24e85c532" name="Smt threads unpark policy">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="b669a5e9-7b1d-4132-baaa-49190abcfeb6" name="Complex unpark policy">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="bae08b81-2d5e-4688-ad6a-13243356654b" name="Heterogeneous short running thread scheduling policy">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="2" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="2" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="4" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="5" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="5" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="5" />
+    </setting>
+    <setting guid="bc5038f7-23e0-4960-96da-33abaf5935ec" name="Maximum processor state">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="100" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="100" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="100" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="100" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="100" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="99" />
+    </setting>
+    <setting guid="bc5038f7-23e0-4960-96da-33abaf5935ed" name="Maximum processor state for Processor Power Efficiency Class 1">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="100" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="100" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="100" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="100" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="100" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="100" />
+    </setting>
+    <setting guid="be337238-0d82-4146-a960-4f3749d470c7" name="Processor performance boost mode">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="2" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="2" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="4" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="2" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="2" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="bf903d33-9d24-49d3-a468-e65e0325046a" name="Long running threads' processor architecture upper limit">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="255" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="255" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="255" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="255" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="255" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="255" />
+    </setting>
+    <setting guid="c4581c31-89ab-4597-8e2b-9c9cab440e6b" name="Processor idle time check">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="50000" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="50000" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="5000" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="50000" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="50000" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="50000" />
+    </setting>
+    <setting guid="c7be0679-2817-4d69-9d02-519a537ed0c6" name="Processor performance core parking increase policy">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="cfeda3d0-7697-4566-a922-a9086cd49dfa" name="Processor autonomous activity window">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="30000" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="30000" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="20000" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="30000" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="30000" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="20000" />
+    </setting>
+    <setting guid="d8edeb9b-95cf-4f95-a73c-b061973693c8" name="Processor performance decrease time">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+    </setting>
+    <setting guid="d8edeb9b-95cf-4f95-a73c-b061973693c9" name="Processor performance decrease time for Processor Power Efficiency Class 1">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="2" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="2" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="5" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="2" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="2" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+    </setting>
+    <setting guid="d92998c2-6a48-49ca-85d4-8cceec294570" name="Short vs. long running thread threshold">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="dfd10d17-d5eb-45dd-877a-9a34ddd15c82" name="Processor performance core parking decrease time">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="10" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="10" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="20" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="10" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="10" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="20" />
+    </setting>
+    <setting guid="e0007330-f589-42ed-a401-5ddb10e785d3" name="Processor performance core parking utility distribution">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="ea062031-0e34-4ff1-9b6d-eb1059334028" name="Processor performance core parking max cores">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="100" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="100" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="100" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="100" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="100" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="100" />
+    </setting>
+    <setting guid="ea062031-0e34-4ff1-9b6d-eb1059334029" name="Processor performance core parking max cores for Processor Power Efficiency Class 1">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="100" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="100" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="100" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="100" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="100" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="100" />
+    </setting>
+    <setting guid="f735a673-2066-4f80-a0c5-ddee0cf1bf5d" name="Processor performance core parking concurrency headroom threshold">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="20" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="20" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="20" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="20" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="20" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="20" />
+    </setting>
+    <setting guid="f8861c27-95e7-475c-865b-13c0cb3f9d6b" name="Processor performance level decrease threshold for Processor Power Efficiency Class 1 processor count decrease">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="255" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="255" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="255" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="255" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="255" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="255" />
+    </setting>
+    <setting guid="f8861c27-95e7-475c-865b-13c0cb3f9d6c" name="Processor performance level decrease threshold for Processor Power Efficiency Class 2 processor count decrease">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="255" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="255" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="255" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="255" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="255" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="255" />
+    </setting>
+    <setting guid="fddc842b-8364-4edc-94cf-c17f60de1c80" name="A floor performance for Processor Power Efficiency Class 0 when there are Processor Power Efficiency Class 1 processors unparked">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="100" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="100" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="100" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="100" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="100" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="100" />
+    </setting>
+  </subgroup>
+  <subgroup guid="5fb4938d-1ee8-4b0f-9a3c-5036b0ab995c">
+    <setting guid="dd848b2a-8a5d-4451-9ae2-39cd41658f6c" name="GPU preference policy">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+  </subgroup>
+  <subgroup guid="7516b95f-f776-4464-8c53-06167f40cc99">
+    <setting guid="17aaa29b-8b43-4b94-aafe-35f64daaf1ee" name="Dim display after">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="585" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="585" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="585" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="225" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="225" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="40" />
+    </setting>
+    <setting guid="3c0bc021-c8a8-4e07-a973-6b14cbcb2b7e" name="Turn off display after">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="300" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="300" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="600" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="180" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="180" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="60" />
+    </setting>
+    <setting guid="684c3e69-a4f7-4014-8754-d45179a56167" name="Advanced Color quality bias">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+    </setting>
+    <setting guid="8ec4b3a5-6868-48c2-be75-4f3044be88a7" name="Console lock display off timeout">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="30" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="30" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="30" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="30" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="30" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="30" />
+    </setting>
+    <setting guid="90959d22-d6a1-49b9-af93-bce885ad335b" name="Adaptive display">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="a9ceb8da-cd46-44fb-a98b-02af69de4623" name="Allow display required policy">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+    </setting>
+    <setting guid="aded5e82-b909-4619-9949-f5d71dac0bcb" name="Display brightness">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="65" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="75" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="75" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="65" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="75" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="75" />
+    </setting>
+    <setting guid="f1fbfde2-a960-4165-9f88-50667911ce96" name="Dimmed display brightness">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="50" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="50" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="50" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="50" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="50" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="40" />
+    </setting>
+    <setting guid="fbd9aa66-9553-4097-ba44-ed6e9d65eab8" name="Enable adaptive brightness">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+    </setting>
+  </subgroup>
+  <subgroup guid="8619b916-e004-4dd8-9b66-dae86f806698">
+    <setting guid="0a7d6ab6-ac83-4ad1-8282-eca5b58308f3" name="Human Presence Sensor Adaptive Away Display Timeout">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="120" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="30" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="300" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="30" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="30" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="60" />
+    </setting>
+    <setting guid="468fe7e5-1158-46ec-88bc-5b96c9e44fd0" name="Standby Reserve Time">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1200" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1200" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1200" />
+    </setting>
+    <setting guid="49cb11a5-56e2-4afb-9d38-3df47872e21b" name="Standby Reset Percentage">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="75" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="75" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="75" />
+    </setting>
+    <setting guid="5adbbfbc-074e-4da1-ba38-db8b36b2c8f3" name="Non-sensor Input Presence Timeout">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="240" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="240" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="240" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="240" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="240" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="240" />
+    </setting>
+    <setting guid="60c07fe1-0556-45cf-9903-d56e32210242" name="Standby Budget Grace Period">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="900" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="900" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="900" />
+    </setting>
+    <setting guid="82011705-fb95-4d46-8d35-4042b1d20def" name="User Presence Prediction mode">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+    </setting>
+    <setting guid="9fe527be-1b70-48da-930d-7bcf17b44990" name="Standby Budget Percent">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="5" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="5" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="5" />
+    </setting>
+    <setting guid="a79c8e0e-f271-482d-8f8a-5db9a18312de" name="Human Presence Sensor Adaptive Away Dim Timeout">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="c763ee92-71e8-4127-84eb-f6ed043a3e3d" name="Standby Reserve Grace Period">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="300" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="300" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="300" />
+    </setting>
+    <setting guid="cf8c6097-12b8-4279-bbdd-44601ee5209d" name="Human Presence Sensor Adaptive Inattentive Dim Timeout">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="5" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="5" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="65" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="5" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="5" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="15" />
+    </setting>
+    <setting guid="ee16691e-6ab3-4619-bb48-1c77c9357e5a" name="Human Presence Sensor Adaptive Inattentive Display Timeout">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+  </subgroup>
+  <subgroup guid="9596fb26-9850-41fd-ac3e-f7c3c00afd4b">
+    <setting guid="03680956-93bc-4294-bba6-4e0f09bb717f" name="When sharing media">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="10778347-1370-4ee0-8bbd-33bdacaade49" name="Video playback quality bias">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="34c7b99f-9a6d-4b3c-8dc7-b6693b78cef4" name="When playing video">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="2" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+    </setting>
+  </subgroup>
+  <subgroup guid="c763b4ec-0e50-4b6b-9bed-2b92a6ee884e">
+    <setting guid="7ec1751b-60ed-4588-afb5-9819d3d77d90" name="Overlay">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="2" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="2" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="2" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="2" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+  </subgroup>
+  <subgroup guid="de830923-a562-41af-a086-e3a2c6bad2da">
+    <setting guid="13d09884-f74e-474a-a852-b6bde8ad03a8" name="Display brightness weight">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="100" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="100" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="100" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="70" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="70" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="70" />
+    </setting>
+    <setting guid="5c5bb349-ad29-4ee2-9d0b-2b25270f7a81" name="Energy Saver Policy">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+    </setting>
+    <setting guid="e69653ca-cf7f-4f05-aa73-cb833fa90ad4" name="Charge level">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="20" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="20" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="20" />
+    </setting>
+  </subgroup>
+  <subgroup guid="e73a048d-bf27-4f12-9731-8b2076e8891f">
+    <setting guid="5dbb7c9f-38e9-40d2-9749-4f8a0e9f640f" name="Critical battery notification">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+    </setting>
+    <setting guid="637ea02f-bbcb-4015-8e2c-a1c7b9c0b546" name="Critical battery action">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="3" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="2" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="3" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="2" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="8183ba9a-e910-48da-8769-14ae6dc1170a" name="Low battery level">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="6" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="6" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="6" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="6" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="6" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="6" />
+    </setting>
+    <setting guid="9a66d8d7-4ff7-4ef9-b5a2-5a326ca2a469" name="Critical battery level">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="5" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="2" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="4" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="5" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="2" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="4" />
+    </setting>
+    <setting guid="bcded951-187b-4d05-bccc-f7e51960c258" name="Low battery notification">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="1" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="1" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="1" />
+    </setting>
+    <setting guid="d8742dcb-3e6a-4b3c-b3fe-374623cdcf06" name="Low battery action">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="0" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="0" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="0" />
+    </setting>
+    <setting guid="f3c5027d-cd16-4930-aa6b-90db844a8f00" name="Reserve battery level">
+      <acindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="4" />
+      <acindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="4" />
+      <acindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="4" />
+      <dcindex scheme="381b4222-f694-41f0-9685-ff5bb260df2e" value="4" />
+      <dcindex scheme="4dd96f81-ac9d-4742-a4db-ae7833c3ab52" value="4" />
+      <dcindex scheme="bd9baacd-0593-440e-9aa7-f6adf8cdbb41" value="4" />
+    </setting>
+  </subgroup>
+</root>
